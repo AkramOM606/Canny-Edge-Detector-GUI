@@ -1,1 +1,1 @@
-Hello World
+Canny-Edge-Detector-GUI
