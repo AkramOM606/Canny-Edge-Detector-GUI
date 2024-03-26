@@ -141,26 +141,3 @@ class CannyEdgeDetector:
                     if found == False:
                         double_threshold_image[i][j] = 0
         return image(data=double_threshold_image)
-
-
-if __name__ == '__main__':
-    img = image('women.jpg')
-    ced = CannyEdgeDetector(img)
-
-    # img.plot()
-
-    # gauss_filter_img = ced.gaussianFilter()
-    # gauss_filter_img.plot()
-
-    # grads = ced.intensityGradient()[0]
-    # img_grads = image(data=grads)
-    # img_grads.plot()
-
-    # suppression = ced.nonMaximumSuppression()
-    # suppression.plot()
-
-    # double_thresholding = ced.doubleThreshold()
-    # double_thresholding.plot()
-
-    # hysteresis = ced.hystheresisTracking()
-    # hysteresis.plot()
