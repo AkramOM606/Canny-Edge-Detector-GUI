@@ -1,1 +1,6 @@
 customtkinter
+pillow
+matplotlib
+opencv-python
+numpy
+scipy
