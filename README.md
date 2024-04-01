@@ -1,4 +1,9 @@
 # Canny Edge Detection GUI with CustomTkinter
+![image](https://github.com/AkramOM606/Canny-Edge-Detector-GUI/assets/162604610/39ec818c-2877-49e4-bf70-25642baaf543)
+
+![image](https://github.com/AkramOM606/Canny-Edge-Detector-GUI/assets/162604610/76473b1b-a15f-4d50-849d-9f6b033d75a5)
+
+![image](https://github.com/AkramOM606/Canny-Edge-Detector-GUI/assets/162604610/0ef718bd-be63-4ea7-90ac-8380bd8f1d8b)
 
 ## Description
 
