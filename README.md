@@ -4,7 +4,7 @@
 
 This GUI application simplifies Canny edge detection by offering a visual interface for:
 
-* **Image Input:** Select and load an image for edge detection. Supported image formats (e.g., JPG, PNG) will be listed.
+* **Image Input:** Select and load an image for edge detection. Supported image formats (JPG, PNG) will be listed.
 * **Parameter Adjustment:** Fine-tune the Canny edge detection algorithm's parameters, including:
     * **Gaussian Blur:** Control the amount of Gaussian blurring applied before edge detection to reduce noise.
     * **Thresholds:** Set the lower and upper thresholds for edge detection strength.
@@ -40,7 +40,7 @@ This GUI application simplifies Canny edge detection by offering a visual interf
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/AkramOM606/Numerical-Analysis-GUI.git](https://github.com/AkramOM606/Canny-Edge-Detector-GUI.git)
+git clone https://github.com/AkramOM606/Canny-Edge-Detector-GUI.git
 ```
 2. Install the additional dependencies if not present:
 ```bash
