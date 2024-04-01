@@ -80,7 +80,7 @@ class App(ctk.CTk):
         self.home_text_var = ctk.StringVar()
 
         # Configuration
-        self.title("Project : Image Processing Canny Edge Detection")
+        self.title("Canny Edge Detection Application")
 
         self.resizable(False, False)
 
@@ -179,14 +179,6 @@ class App(ctk.CTk):
                 ),
             )
             button.pack(padx=1, pady=2)
-
-        About_Label = ctk.CTkLabel(
-            self.left_frame,
-            text="Made By :\nADRANE Akram\n& DAOUDI Otmane",
-            font=("Trebuchet MS Bold", 16),
-            text_color="red",
-        )
-        About_Label.pack(side="bottom")
 
         self.display_page("home")
 
